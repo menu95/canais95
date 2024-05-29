@@ -1,0 +1,14 @@
+{
+    "channel1": [
+        { "time": "16:00", "title": "News Hour" },
+        { "time": "17:00", "title": "Evening News" }
+    ],
+    "channel2": [
+        { "time": "16:00", "title": "Documentary" },
+        { "time": "17:00", "title": "World News" }
+    ],
+    "channel3": [
+        { "time": "16:00", "title": "Market Watch" },
+        { "time": "17:00", "title": "Business News" }
+    ]
+}
